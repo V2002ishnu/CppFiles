@@ -29,7 +29,7 @@ int main()
 
 	int size = sizeof(arr) / sizeof(arr[0]);
 
-	printf("Minimum number of multiplications is %d ",
+	printf("Minimum number of multiplications is .... %d ",
 		MatrixChainOrder(arr, size));
 
 	getchar();
